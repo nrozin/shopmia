@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="https://static.tildacdn.com/tild3933-3930-4863-b832-633962626264/mstile-70x70.png?v=2"/>
+            <square150x150logo src="https://static.tildacdn.com/tild6663-3063-4530-b231-353138316634/mstile-150x150.png?v=2"/>
+            <square310x310logo src="https://static.tildacdn.com/tild6632-6337-4362-b530-613264666661/mstile-310x310.png?v=2"/>
+            <wide310x150logo src="https://static.tildacdn.com/tild6162-6534-4764-b438-396663616365/mstile-310x150.png?v=2"/>
+            <TileColor>#603cba</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

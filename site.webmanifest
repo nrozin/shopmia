@@ -1,0 +1,38 @@
+{
+    "name": "Malina shop",
+    "short_name": "Malina shop",
+    "icons": [
+        {
+            "src": "https://static.tildacdn.com/tild6361-3564-4036-b039-353639326364/android-chrome-36x36.png?v=2",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild3664-3932-4339-a566-633861313133/android-chrome-48x48.png?v=2",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild6163-3462-4265-a532-316237333338/android-chrome-72x72.png?v=2",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild6430-6133-4162-b031-303465323433/android-chrome-96x96.png?v=2",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild3766-3933-4532-b732-336264623730/android-chrome-144x1.png?v=2",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://static.tildacdn.com/tild6236-6230-4238-a631-363661353039/android-chrome-192x1.png?v=2",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+}' />
